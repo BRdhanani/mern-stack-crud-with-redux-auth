@@ -1,1 +1,1 @@
-# mern-stack-e-commerce
+# mern stack e-commerce with redux auth
